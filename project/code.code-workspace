@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tailwind"
+		}
+	],
+	"settings": {}
+}
